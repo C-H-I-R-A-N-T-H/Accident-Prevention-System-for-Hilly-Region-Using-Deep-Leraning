@@ -107,6 +107,3 @@ AI model or external script sends commands:
 
 ---
 
-
-
-If you want, I can also generate a **GitHub‑ready README with badges, wiring diagrams, or flowchart**.
